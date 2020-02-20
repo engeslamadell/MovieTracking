@@ -8,11 +8,11 @@ i have used bootstrap for only the Accordion component and Modal
 i have used the standars way of styling because of the time frame
 
 ## Installation Instruction
-1- Download the project
-2- run " yarn install "
-3- run " yarn jsonDB "
+Download the project
+run " yarn install "
+run " yarn jsonDB "
     i have selected the port 3001 as 3000 will be taken by react, if 3001 is busy by any other service you can change the port easily from package.json
-4- run " yarn start "
+run " yarn start "
 
 ## Thank You
 i will appreciate if you take the time to give me your feedback
