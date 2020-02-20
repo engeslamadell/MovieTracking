@@ -1,0 +1,15 @@
+.Icon-main {
+    font-size: 30px;
+    color: #333333;
+  }
+
+.CardMovieDetails {
+  background-color: #F5F5F5;
+  width: 90%;
+  margin: auto
+}
+
+.card-header {
+  background-color: #A9F3D3!important;
+  margin-bottom: 10px!important;
+}

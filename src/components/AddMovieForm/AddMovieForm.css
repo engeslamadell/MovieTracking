@@ -1,0 +1,31 @@
+.container {
+    margin-bottom: 10px;
+}
+
+.MovieDetails {
+    display: flex;
+}
+
+.MovieName {
+    margin-right: 20px;
+}
+
+.DescriptionValue {
+    color: #EC5F5A;
+    font-style: italic;
+}
+
+.input-style {
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.button {
+    min-width: 100px;
+    padding: 5px 15px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #f1f1f1;
+    background-color: #00A65A;
+}

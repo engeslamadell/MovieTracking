@@ -1,0 +1,15 @@
+body {
+  background-color: #ccc !important;
+}
+
+.App {
+  width: 90%;
+  margin: auto;
+}
+
+.accordion {
+  border-top: 3px solid #3C8DBC;
+  padding: 15px;
+  background: #fff;
+  margin-top: 20px;
+}
